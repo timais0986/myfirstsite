@@ -1,0 +1,14 @@
+#first, #second{
+	width: 300px;
+	height: 300px;
+	border: solid 10px tomato;
+	margin: 20px;
+	padding: 20px;
+}
+#third, #fourth{
+	width: 100px;
+	height: 100px;
+	border: solid 10px wheat;
+	margin: 20px;
+	padding: 20px;
+}

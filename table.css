@@ -1,0 +1,32 @@
+body {
+	background-color: lightsalmon
+}
+p{
+	background-color: rgb(234, 234, 234);
+    color: greenlime
+    font-family: cursive
+    font-size: 50px
+}
+table {
+	border: double 5px red;
+}
+th {
+	background-color: darkkhaki;
+	border: solid 2px lime;
+	width: 50%;
+}
+td{
+    background-color: cyan;
+    border: solid 2px red;
+    width: 50%;
+}
+td:hover {
+	background-color: rgb(234, 0, 0);
+}
+th:hover{
+	background-color: rgb(0, 250, 0);
+}
+tr:nth-child(even){
+	background-color: darkkhaki;
+
+}
